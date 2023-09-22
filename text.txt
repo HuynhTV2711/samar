@@ -1,1 +1,11 @@
-Câu lênh khởi tạo Git reponsitory
+1. Câu lênh khởi tạo Git reponsitory
+- git init
+2. Thêm file:
+git add . add all file
+git add index.html add a file
+3. Tạo phiên bản của source code
+git commit -m "Tên phiên bản, hoặc việc làm khi push code"
+4. Xem nội dung commit do người nào tạo và thời gian tạo commit
+git log
+5. Kiểm tra các file đang nằm trên staging area sau khi dùng git add
+git status
