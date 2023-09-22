@@ -16,5 +16,6 @@ git remote add origin https://github.com/HuynhTV2711/samar.git
 8. Đẩy code lên github lần đầu
 git push -u origin main
 9. đẩy code lên github lần 2 trở đi
+git add .
+git commit -m "Update lần 2"
 git push 
-10.git 
