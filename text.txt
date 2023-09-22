@@ -13,5 +13,7 @@ git status
 git branch -M main
 7. Tạo liên kết với remote
 git remote add origin https://github.com/HuynhTV2711/samar.git
-8. Đẩy code lên reponsitory
+8. Đẩy code lên github lần đầu
 git push -u origin main
+9. đẩy code lên github lần 2 trở đi
+git push
