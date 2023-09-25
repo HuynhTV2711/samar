@@ -19,7 +19,7 @@ git push -u origin main
 git add .
 git commit -m "Update lần 2"
 git push 
-Huỳnh test branch
+Huỳnh test branch để merger nhánh
 hưng test
 dang hop nhat code 
 hợp nhất lần 2s
